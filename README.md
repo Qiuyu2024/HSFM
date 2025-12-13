@@ -1,2 +1,2 @@
-# HSFM-Hybrid-Spatial-Frequency-Mamba-for-Efficient-Image-Restoration
+# HSFM
 Implemention of HSFM: Hybrid Spatial Frequency Mamba for Efficient Image Restoration
